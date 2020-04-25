@@ -8,4 +8,4 @@ function autoAdmit() {
 }
 
 console.log('Enabling Auto Admit');
-setInterval(autoAdmit, 5 * 1000);
+setInterval(autoAdmit, 1 * 1000);
